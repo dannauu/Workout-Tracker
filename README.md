@@ -16,7 +16,7 @@ Workout logger lets the user track and create past and new workouts. Simply clic
 Before running the application user must perform "npm install" to install all required dependencies.
 
 ## Usage
-[Deployed App]()
+[Deployed App](https://arcane-mesa-64625.herokuapp.com/stats)
 ### Application in use below
 ![](/assets/img/App-Gif.gif)
 
