@@ -18,7 +18,7 @@ Before running the application user must perform "npm install" to install all re
 ## Usage
 [Deployed App]()
 ### Application in use below
-![](/public/assets/img/App-Gif.gif)
+![](/assets/img/App-Gif.gif)
 
 ## License
 
